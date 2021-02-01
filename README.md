@@ -1,42 +1,41 @@
 # Low Definiton CRO Ground Truth Generation with GoPro camera (PoC)
 
 ## Table of contents
-1. [Introduction](#introduction)
+- [Introduction](#introduction)
+- [Situation](#situation)
+- [Problem](#problem)
+- [Solution] (#solution)
 
-  1.1. Situation
-  1.2. Problem
-  1.3. Solution
 2. [Method](#method)
   2.1. Toolchain
 3. Validation
   3.1. Method
   3.2. Comparision with atlatec
-4. [Improvement](#4.improvement)
-4. Improvement
+4. [Improvement](#improvement)
 
-## 1. Introduction
+## Introduction
 This chapter will give a short overview about the need of that method.
-##### 1.1 Situation
+##### Situation
 At the moment road measurement is getting more important for autonomous driving.
 The number of camera sensors is also increasing in that field.
-##### 1.2 Problem
+##### Problem
 The process of measuring road data is quite long. Measuring, processing and data storage takes time. In some
 situation the process of measuring the roads take to long.
-##### 1.3 Solution
+##### Solution
 With this method we can measure the roads faster.   
 
 
-## 2. Method
+## Method
 
-##### 2.1 Toolchain
+##### Toolchain
 
-## 3. Validation
+## Validation
 
-##### 3.1 Method
+##### Method
 
-##### 3.2 Comparision with atlatec
+##### Comparision with atlatec
 
-## 4.Improvement
+## Improvement
 
 
 ## Design
