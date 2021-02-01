@@ -2,9 +2,9 @@
 
 ## Table of contents
 - [Introduction](#introduction)
-- [Situation](#situation)
-- [Problem](#problem)
-- [Solution] (#solution)
+	- [Situation](#situation)
+	- [Problem](#problem)
+	- [Solution] (#solution)
 
 2. [Method](#method)
   2.1. Toolchain
