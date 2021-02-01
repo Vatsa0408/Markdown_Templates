@@ -4,14 +4,13 @@
 - [Introduction](#introduction)
 	- [Situation](#situation)
 	- [Problem](#problem)
-	- [Solution] (#solution)
+	- [Solution](#solution)
+- [Method](#method)
+	- [Toolchain](#toolchain)
+- [Validation](#validation)
+	- [Accuracy](#accuracy)
+- [Improvement](#improvement)
 
-2. [Method](#method)
-  2.1. Toolchain
-3. Validation
-  3.1. Method
-  3.2. Comparision with atlatec
-4. [Improvement](#improvement)
 
 ## Introduction
 This chapter will give a short overview about the need of that method.
@@ -31,9 +30,7 @@ With this method we can measure the roads faster.
 
 ## Validation
 
-##### Method
-
-##### Comparision with atlatec
+##### Accuracy
 
 ## Improvement
 
